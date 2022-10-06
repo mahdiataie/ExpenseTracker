@@ -13,6 +13,7 @@
   
   .expenses-filter label {
     font-weight: bold;
+    color: rgb(6, 6, 6);
     margin-bottom: 0.5rem;
   }
   
